@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hello 👋, I'm Jason Jugo</h1>
 <h3 align="center">Software Engineer from New Jersey</h3>
 
