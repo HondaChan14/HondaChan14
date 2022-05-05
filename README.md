@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mochiscript@gmail.com**
 
-- ⚡ Fun fact **I am a huge Japan Enthusiast. Who plans on visiting**
+- ⚡ Fun fact **I am a huge Japan Enthusiast, Who plans on visiting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
