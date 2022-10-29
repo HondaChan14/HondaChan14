@@ -138,3 +138,8 @@
 
 <h3 align="center">Support:</h3>
 <p align ="center"><a href="https://www.buymeacoffee.com/mochiscrip3"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HondaCivicChan" /></a></p><br><br>
+
+<p align="center">
+<a href="https://app.daily.dev/HondaChan14"><img src="https://api.daily.dev/devcards/8b812959a35747be8db341502d08445f.png?r=cid" width="400" alt="Jason Jugo's Dev Card"/></a>
+  </p>
+
