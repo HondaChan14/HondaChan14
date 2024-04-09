@@ -36,24 +36,24 @@
   <a href="https://bit-source-production.up.railway.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
-         <p align="center"><strong>Web Application - EJS | Tailwind CSS/DaisyUI | JavaScript | MongoDB/Mongoose </strong></p>
+         <p align="center"><strong>Web Application - EJS | Tailwind CSS/DaisyUI | JavaScript | Node.js | MongoDB/Mongoose </strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Branches: Project Mangement App</h3>
       <br />
         <a target="_blank" href="https://project-branches-production.up.railway.app">
-          <img src="https://github.com/HondaChan14/HondaChan14/assets/92832561/dc73c514-f8ac-40e5-bc5e-c3ee4053a282)" width="95%" height="270px" alt="Branches web app"/>
+          <img src="https://camo.githubusercontent.com/577a3e711e7d5eafff971ebc0576023336e70c8688e08750248b126196e2e5f7/68747470733a2f2f692e696d6775722e636f6d2f4c37387344574a2e676966" width="95%" height="270px" alt="Branches web app"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/HondaChan14/Project-Branches" target="_blank">
+  <a href="https://github.com/296kB/Project-Branches" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
   <a href="https://project-branches-production.up.railway.app" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
-        <p align="center"><strong>Web Application CardCaptor API - HTML & CSS, JS</strong></p>
+        <p align="center"><strong>Web Application - EJS | JavaScript | Node.js | MongoDB/Mongoose </strong></p>
     </td>
     </tr>
     <tr>
