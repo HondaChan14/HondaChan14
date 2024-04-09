@@ -20,10 +20,47 @@
 <!-- Projects---------------------------------------------------------------------------------------------------------------------------->
 ## Projects
 <table bordercolor="#a3496a">
-  
-  <tr>
+    <tr>
     <td width="50%" valign="top">
       <h3 align="center">Bit Source: The Actual Good First Issue</h3>
+        <br />
+        <a target="_blank" href="https://bit-source-production.up.railway.app">
+            <img src="https://github.com/HondaChan14/HondaChan14/assets/92832561/897874ad-b4b5-4510-9c73-55d79ef5f9a9" width="100%" height="270px" alt="Bit Source web app gif and link"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/HondaChan14/Bit-Source" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
+  <a href="https://bitsource.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
+        </p>
+         <p align="center"><strong>Web Application - React | Tailwind CSS | JavaScript | Node.js | MongoDB/Mongoose | Vite </strong></p>
+         <p align="center">Bit Source serves as a welcoming platform for beginner developers to join the open-source community, specifically focusing on initiating contributions to GitHub repositories.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Together</h3>
+      <br />
+        <a target="_blank" href="https://together.cyclic.app">
+          <img src="https://github.com/intelagense/intelagense/raw/main/images/togetherprofile.gif" width="95%" height="270px" alt="Branches web app"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Together-100Devs/Together" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
+  </a>
+  <a href="https://together.cyclic.app" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
+  </a>
+      </p>
+        <p align="center"><strong>Web Application - React | Tailwind CSS | JavaScript | Node.js | MongoDB/Mongoose </strong></p>
+        <p align="center">Logged in users create and view community events for the 40,000 member 100Devs Agency Discord.</p>
+    </td>
+    </tr>
+    
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Bit Source: Beta</h3>
         <br />
         <a target="_blank" href="https://bit-source-production.up.railway.app">
             <img src="https://i.imgur.com/Oe6Q6EU.png" width="100%" height="270px" alt="Bit Source web app gif and link"/>
@@ -31,12 +68,13 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/HondaChan14/Bit-Source" target="_blank" rel="noreferrer">
+  <a href="https://github.com/HondaChan14/Bit-Source-Beta" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   <a href="https://bit-source-production.up.railway.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
          <p align="center"><strong>Web Application - EJS | Tailwind CSS/DaisyUI | JavaScript | Node.js | MongoDB/Mongoose </strong></p>
+         <p align="center">In its beta version, Bit Source serves as an inviting platform tailored for novice developers seeking entry into the open-source community, with a focus on facilitating contributions to GitHub repositories.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Branches: Project Mangement App</h3>
@@ -54,6 +92,7 @@
   </a>
       </p>
         <p align="center"><strong>Web Application - EJS | JavaScript | Node.js | MongoDB/Mongoose </strong></p>
+        <p align="center">Introducing a user-friendly mobile and web application designed to streamline project organization, allowing users to effortlessly create, delete, and mark tasks as complete, enhancing productivity and organization.</p>
     </td>
     </tr>
     <tr>
@@ -71,7 +110,7 @@
   <a href="https://ac-fishing-simulator.netlify.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
         </p>
-         <p align="center"><strong>Web Application AC API - HTML & CSS, JS </strong></p>
+         <p align="center"><strong>Web Application AC API - HTML & CSS, JS</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">CardCaptor Clow Card API</h3>
